@@ -43,7 +43,7 @@ x-acquired-by: cisco
 x-acquired-date: '2018-01-24'
 specificationVersion: '0.23'
 created: '2026-07-17'
-modified: '2026-09-15'
+modified: '2026-09-16'
 tags:
 - Company
 - Enterprise
@@ -52,6 +52,7 @@ tags:
 - Cloud
 - Data-Center
 - Acquired
+- Defunct
 tags_raw:
 - Company
 - Enterprise
@@ -60,6 +61,7 @@ tags_raw:
 - Cloud
 - Data Center
 - Acquired
+- Defunct
 apis: []
 maintainers:
 - FN: Kin Lane
