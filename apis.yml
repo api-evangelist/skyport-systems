@@ -50,7 +50,7 @@ tags:
 - Security
 - Infrastructure
 - Cloud
-- Data-Center
+- Data Center
 - Acquired
 - Defunct
 tags_raw:
@@ -62,6 +62,7 @@ tags_raw:
 - Data Center
 - Acquired
 - Defunct
+- Data-Center
 apis: []
 maintainers:
 - FN: Kin Lane
